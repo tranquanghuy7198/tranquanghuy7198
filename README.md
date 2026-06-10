@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Fullstack+Engineer+%7C+Web3+Builder;Smart+Contracts+%7C+Backend+Systems+%7C+Data+Pipelines;EVM+%7C+Solana+%7C+Cosmos+Ecosystems;7%2B+years+shipping+on-chain+%26+off-chain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=640&lines=Fullstack+Engineer+%7C+Web3+Builder;Smart+Contracts+%7C+Backend+Systems+%7C+Data+Pipelines;EVM+%7C+Solana+%7C+Cosmos+Ecosystems" alt="Typing SVG" />
   </a>
 </p>
 
