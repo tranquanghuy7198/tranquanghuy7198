@@ -45,9 +45,9 @@ const huy: Engineer = {
 <h2 align="center">⚙️ src/pages/Projects.tsx ⚙️</h2>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="assets/kontraxhub.png" />
-  <a href="https://kontraxhub.xyz"><b>KontraxHub</b></a><br/>
-  <sub>Multi-chain smart contract deployment & interaction hub</sub>
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/nocturnal.png" />
+  <a href="https://nocturnal.xyz"><b>Nocturnal</b></a><br/>
+  <sub>Web3 product exploring on-chain automation</sub>
 </div>
 <br clear="left"/>
 
@@ -59,9 +59,9 @@ const huy: Engineer = {
 <br clear="left"/>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="assets/nocturnal.png" />
-  <a href="https://nocturnal.xyz"><b>Nocturnal</b></a><br/>
-  <sub>Web3 product exploring on-chain automation</sub>
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/kontraxhub.png" />
+  <a href="https://kontraxhub.xyz"><b>KontraxHub</b></a><br/>
+  <sub>Multi-chain smart contract deployment & interaction hub</sub>
 </div>
 <br clear="left"/>
 
