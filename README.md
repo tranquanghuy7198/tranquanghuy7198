@@ -42,6 +42,29 @@ const huy: Engineer = {
 };
 ```
 
+<h2 align="center">⚙️ src/pages/Projects.tsx ⚙️</h2>
+
+<div>
+  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/ethereum/58A6FF" />
+  <a href="https://kontraxhub.xyz"><b>KontraxHub</b></a><br/>
+  <sub>Multi-chain smart contract deployment & interaction hub</sub>
+</div>
+<br clear="left"/>
+
+<div>
+  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/opensea/203A43" />
+  <a href="https://opensea.io"><b>We All Survived Death</b></a><br/>
+  <sub>On-chain NFT collection, live on OpenSea</sub>
+</div>
+<br clear="left"/>
+
+<div>
+  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/moon/2C5364" />
+  <a href="https://nocturnal.xyz"><b>Nocturnal</b></a><br/>
+  <sub>Web3 product exploring on-chain automation</sub>
+</div>
+<br clear="left"/>
+
 <h2 align="center">⚙️ src/pages/TechStack.tsx ⚙️</h2>
 
 <table align="center">
