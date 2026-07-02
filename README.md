@@ -47,21 +47,21 @@ const huy: Engineer = {
 <div>
   <img align="left" width="40" hspace="12" vspace="5" src="assets/nocturnal.png" />
   <a href="https://nocturnal.xyz"><b>Nocturnal</b></a><br/>
-  <sub>Web3 product exploring on-chain automation</sub>
+  <sub>Solana meme trading platform</sub>
 </div>
 <br clear="left"/>
 
 <div>
   <img align="left" width="40" hspace="12" vspace="5" src="assets/opensea.svg" />
   <a href="https://opensea.io/collection/weallsurviveddeath"><b>We All Survived Death</b></a><br/>
-  <sub>On-chain NFT collection, live on OpenSea</sub>
+  <sub>Ethereum WASD collection, 10k sold out</sub>
 </div>
 <br clear="left"/>
 
 <div>
   <img align="left" width="40" hspace="12" vspace="5" src="assets/kontraxhub.png" />
   <a href="https://kontraxhub.xyz"><b>KontraxHub</b></a><br/>
-  <sub>Multi-chain smart contract deployment & interaction hub</sub>
+  <sub>Multi-chain smart contract deployment & interaction platform</sub>
 </div>
 <br clear="left"/>
 
