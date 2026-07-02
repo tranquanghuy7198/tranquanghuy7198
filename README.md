@@ -60,7 +60,7 @@ const huy: Engineer = {
 
 <div>
   <img align="left" width="40" hspace="12" vspace="5" src="assets/kontraxhub.png" />
-  <a href="https://kontraxhub.xyz" target="_blank" rel="noopener noreferrer"><b>KontraxHub</b></a><br/>
+  <a href="https://tranquanghuy7198.github.io/kontraxhub-doc" target="_blank" rel="noopener noreferrer"><b>KontraxHub</b></a><br/>
   <sub>Multi-chain smart contract deployment & interaction platform</sub>
 </div>
 <br clear="left"/>
