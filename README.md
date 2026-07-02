@@ -45,21 +45,21 @@ const huy: Engineer = {
 <h2 align="center">⚙️ src/pages/Projects.tsx ⚙️</h2>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/ethereum/58A6FF" />
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/kontraxhub.png" />
   <a href="https://kontraxhub.xyz"><b>KontraxHub</b></a><br/>
   <sub>Multi-chain smart contract deployment & interaction hub</sub>
 </div>
 <br clear="left"/>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/opensea/203A43" />
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/opensea.svg" />
   <a href="https://opensea.io"><b>We All Survived Death</b></a><br/>
   <sub>On-chain NFT collection, live on OpenSea</sub>
 </div>
 <br clear="left"/>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="https://cdn.simpleicons.org/moon/2C5364" />
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/nocturnal.png" />
   <a href="https://nocturnal.xyz"><b>Nocturnal</b></a><br/>
   <sub>Web3 product exploring on-chain automation</sub>
 </div>
