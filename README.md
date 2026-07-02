@@ -53,7 +53,7 @@ const huy: Engineer = {
 
 <div>
   <img align="left" width="40" hspace="12" vspace="5" src="assets/opensea.svg" />
-  <a href="https://opensea.io"><b>We All Survived Death</b></a><br/>
+  <a href="https://opensea.io/collection/weallsurviveddeath"><b>We All Survived Death</b></a><br/>
   <sub>On-chain NFT collection, live on OpenSea</sub>
 </div>
 <br clear="left"/>
