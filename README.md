@@ -65,6 +65,13 @@ const huy: Engineer = {
 </div>
 <br clear="left"/>
 
+<div>
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/kairo.png" />
+  <a href="https://kairo.ag" target="_blank" rel="noopener noreferrer"><b>Kairo</b></a><br/>
+  <sub>Crypto currency exchange in Canton blockchain</sub>
+</div>
+<br clear="left"/>
+
 <h2 align="center">⚙️ src/pages/TechStack.tsx ⚙️</h2>
 
 <table align="center">
