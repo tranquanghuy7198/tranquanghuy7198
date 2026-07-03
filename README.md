@@ -129,7 +129,7 @@ const huy: Engineer = {
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=tranquanghuy7198&theme=tokyonight&hide_border=true" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tranquanghuy7198&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+        <img src="https://github-stats-extended.vercel.app/api?username=tranquanghuy7198&theme=tokyonight&hide_border=true&rank_icon=github&show_icons=true&include_all_commits=true&count_private=true" />
       </td>
     </tr>
   </table>
