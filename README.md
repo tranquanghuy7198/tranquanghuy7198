@@ -52,7 +52,7 @@ const huy: Engineer = {
 <br clear="left"/>
 
 <div>
-  <img align="left" width="40" hspace="12" vspace="5" src="assets/opensea.svg" />
+  <img align="left" width="40" hspace="12" vspace="5" src="assets/wasd.png" />
   <a href="https://opensea.io/collection/weallsurviveddeath" target="_blank" rel="noopener noreferrer"><b>We All Survived Death</b></a><br/>
   <sub>Ethereum WASD collection, 10k sold out</sub>
 </div>
